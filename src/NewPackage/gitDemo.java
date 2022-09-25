@@ -7,6 +7,7 @@ public class gitDemo {
 		for(int i =0; i<5; i++) {
 			arr[i] = i;
 			System.out.println(arr[i]);
+			System.out.println("Sakshi Demo");
 		}
 
 	}
